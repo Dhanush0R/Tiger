@@ -1,5 +1,6 @@
 # TIGER — Generative Retrieval for Recommendation
-tiger_arch.jpg---
+![IMG-20250112-WA0019](tiger_arch.jpg)
+---
 
 ## Overview
 
