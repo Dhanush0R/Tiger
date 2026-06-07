@@ -1,5 +1,5 @@
 # TIGER — Generative Retrieval for Recommendation
-
+tiger_arch.jpg
 ---
 
 ## Overview
