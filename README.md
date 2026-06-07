@@ -1,6 +1,4 @@
-# Assignment 3: TIGER — Generative Retrieval for Recommendation
-
-Group 63 | 2526-S2 Recommender Systems, Leiden University
+# TIGER — Generative Retrieval for Recommendation
 
 ---
 
